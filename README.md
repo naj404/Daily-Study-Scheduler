@@ -1,1 +1,1 @@
-# Daily-Study-Scheduler
+naj404/Daily-Study-Scheduler
