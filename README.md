@@ -35,4 +35,6 @@ This project is designed to help students and self-learners stay consistent and 
 
 Check it out here:
 
-([naj404/Daily-Study-Scheduler](https://partyrock.aws/u/naj02/T0K532rYC/StudyPr0gR3M-Personal-Learning-Optimizer))
+https://partyrock.aws/u/naj02/T0K53ZzYC/StudyPro%3A-Personal-Learning-Optimizer
+
+
